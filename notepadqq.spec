@@ -1,5 +1,5 @@
 Name:			notepadqq
-Version:		1.0.2
+Version:		1.0.3
 Release:		1%{?dist}
 Summary:		An advanced text editor for developers
 
@@ -85,6 +85,9 @@ mv * %{buildroot}/%{_datarootdir}/%{name}
 
 
 %changelog
+* Wed Mar 15 2017 jose-pr <dev@alacan.me> 1.0.3-1
+- 
+
 * Wed Mar 15 2017 jose-pr 1.0.2-1
 - 
 
